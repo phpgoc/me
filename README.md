@@ -11,3 +11,4 @@
 - article 文章
 - page 页
 - book 书
+- site 站点
