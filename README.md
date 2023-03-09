@@ -12,3 +12,4 @@
 - page 页
 - book 书
 - site 站点
+- abbreviation 缩写
