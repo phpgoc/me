@@ -13,3 +13,4 @@
 - book 书
 - site 站点
 - abbreviation 缩写
+- paper 论文
