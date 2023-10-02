@@ -14,3 +14,4 @@
 - site 站点
 - abbreviation 缩写
 - paper 论文
+- concept 概念
