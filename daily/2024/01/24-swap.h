@@ -1,0 +1,1 @@
+void swap_without_tmp(void* a, void* b, int size);
