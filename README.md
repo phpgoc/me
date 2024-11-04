@@ -15,3 +15,5 @@
 - abbreviation 缩写
 - paper 论文
 - concept 概念
+- link 链接
+- concept 概念
