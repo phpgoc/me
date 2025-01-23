@@ -17,3 +17,4 @@
 - concept 概念
 - link 链接
 - concept 概念
+- diary 日志
